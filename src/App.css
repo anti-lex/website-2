@@ -1,0 +1,30 @@
+.top-nav{
+    display: flex;
+    gap: 3%;
+    background-color: #0bd3d3;
+    margin-top: 0px;
+    text-decoration: none;
+    list-style: none;
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+    height: 69px;
+    margin-bottom: 0px;
+    line-height: 60px;
+}
+
+a:-webkit-any-link{
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    vertical-align: middle;
+}
+
+a:visited{
+    text-decoration: none;
+    color: black;
+}
+
