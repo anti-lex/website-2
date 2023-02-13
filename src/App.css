@@ -11,6 +11,7 @@
     height: 69px;
     margin-bottom: 0px;
     line-height: 60px;
+    
 }
 
 a:-webkit-any-link{
@@ -28,3 +29,13 @@ a:visited{
     color: black;
 }
 
+.navbar{
+    border-bottom: 1px solid gray;
+    box-shadow: 3px 3px 6px #f890e7; 
+    vertical-align: middle;
+}
+
+.react-icons{
+    vertical-align: middle;
+    
+}
